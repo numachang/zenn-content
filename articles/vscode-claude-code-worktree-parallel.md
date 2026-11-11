@@ -3,7 +3,7 @@ title: "VS Codeのウィンドウだらけで限界だったから、Claude Code
 emoji: "🪟"
 type: "tech"
 topics: ["claudecode", "claude", "ai", "vscode", "codex"]
-published: false
+published: true
 ---
 
 Claude Codeを並列で回すようになってから、ウィンドウを切り替える回数がえらいことになりました。
