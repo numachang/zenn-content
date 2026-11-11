@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+
+# Pixabay does not allow distributing a track by itself. Videos that include it are fine.
+materials/*/audio/*.mp3
